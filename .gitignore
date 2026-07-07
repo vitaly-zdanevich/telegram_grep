@@ -1,0 +1,11 @@
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+__pycache__/
+*.py[cod]
+build/
+dist/
+.venv/
+telegram_grep.session
+*.session
